@@ -16,7 +16,7 @@ Whether you're looking for inspiration or just want to generate some cool random
 
 ## 🚀 Demo
 
-You can try the Color Generator online at [GitHub Pages.] (https://codesaadumair.github.io/Color-Generator/)
+You can try the Color Generator online at [GitHub Pages.](https://codesaadumair.github.io/Color-Generator/)
 
 ## 📂 File Structure
 
